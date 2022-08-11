@@ -1,5 +1,5 @@
 # Profile
-__此项目仅适用于Clash以及Quantumult X__
+__This project is for myself only, dont' use it!__
 
 
 ## 规则
