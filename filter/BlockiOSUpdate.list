@@ -1,0 +1,10 @@
+# NAME: BlockiOSUpdate
+# AUTHOR: haxi302
+# REPO: https://github.com/haxi302/Profiles
+# UPDATED: 2025-07-31 20:20:10
+# HOST: 4
+# TOTAL: 4
+HOST,mesu.apple.com,REJECT
+HOST,gdmf.apple.com,REJECT
+HOST,updates-http.cdn-apple.com,REJECT
+HOST,xp.apple.com,REJECT
